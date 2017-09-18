@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ChromeCustomTabsExample</string>
+    <string name="frost_button">Frost homepage</string>
+    <string name="rebtel_button">Rebtel homepage</string>
+</resources>
