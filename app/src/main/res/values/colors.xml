@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#00ADEC</color>
+    <color name="rebtelRed">#E3232D</color>
+    <color name="frostBlue">#00ADEC</color>
+    <color name="colorPrimary">@color/frostBlue</color>
     <color name="colorPrimaryDark">#7A43B6</color>
     <color name="colorAccent">#C6DB46</color>
-    <color name="red">#E3232D</color>
 </resources>
